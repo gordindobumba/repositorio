@@ -1,0 +1,6 @@
+@MindHub_HostAddress = http://localhost:5101
+
+GET {{MindHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

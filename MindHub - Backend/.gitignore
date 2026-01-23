@@ -1,0 +1,15 @@
+# Pastas de compilação (lixo)
+bin/
+obj/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos do Banco de Dados Local (cada dev terá o seu)
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de log e temporários
+*.log
+.DS_Store
