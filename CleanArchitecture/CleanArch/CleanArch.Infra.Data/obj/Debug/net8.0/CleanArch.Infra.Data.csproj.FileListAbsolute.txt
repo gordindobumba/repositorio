@@ -1,0 +1,17 @@
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Infra.Data.deps.json
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Infra.Data.runtimeconfig.json
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Infra.Data.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Infra.Data.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.AssemblyInfo.cs
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArc.92526541.Up2Date
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\refint\CleanArch.Infra.Data.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.genruntimeconfig.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Infra.Data\obj\Debug\net8.0\ref\CleanArch.Infra.Data.dll

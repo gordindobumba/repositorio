@@ -1,0 +1,11 @@
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.deps.json
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfo.cs
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll

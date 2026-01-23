@@ -1,0 +1,15 @@
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+D:\Users\Luiz\Área de Trabalho\CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
